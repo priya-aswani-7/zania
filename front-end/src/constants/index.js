@@ -1,0 +1,1 @@
+export { staticData } from "./staticData";

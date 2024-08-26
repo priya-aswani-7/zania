@@ -1,0 +1,8 @@
+starlette
+databases
+sqlalchemy
+uvicorn
+psycopg2-binary
+asyncpg
+python-dotenv
+
